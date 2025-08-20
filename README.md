@@ -22,7 +22,7 @@ A lightweight **C++ based coding judge** that can:
 ## 🎥 Demo
 Here’s a quick look at the judge in action:
 
-🚧 [Demo](./DSAJudge.gif)
+![Demo](./DSAJudge.gif) 
 
 *(Will showcase running a C++/Python/Java solution with test cases and report generation)*  
 
