@@ -72,7 +72,6 @@ bool TestExecutor::compileSubmission(const std::string& codeFilePath,
     }
     else if (language == "java")
     {
-        MessageBoxA(NULL, outputPath.c_str(), NULL, MB_OK);
 
         // Extract just the directory for output (bin folder)
         std::string exeDir = fs::path(outputPath).parent_path().string();
