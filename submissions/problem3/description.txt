@@ -1,0 +1,3 @@
+Title: Sum of all the elements of the array
+Language: Java
+Description: provided the size and the elements of the array return the total sum of all the elements of array.

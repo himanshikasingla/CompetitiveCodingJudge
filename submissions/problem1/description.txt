@@ -1,0 +1,3 @@
+Title: Merge Sort
+Language: C++
+Description: provided the size and number of elements of array, returning the sorted array in ascending form.
