@@ -119,7 +119,7 @@ void showMenu() {
                     DWORD exitCode = 0;
                     double execTime;
                     SIZE_T peakMem;
-                    MessageBoxA(NULL, exeFile.string().c_str(), NULL, MB_OK);
+
                     int runResult = executor->runExecutableWithTimeout(
                         exeFile.string(),
                         testcases[i].inputPath,
